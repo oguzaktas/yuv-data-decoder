@@ -1,0 +1,11 @@
+C:\Users\Oguz\source\repos\YUVDecoder\YUVDecoder\bin\Debug\YUVDecoder.exe.config
+C:\Users\Oguz\source\repos\YUVDecoder\YUVDecoder\bin\Debug\YUVDecoder.exe
+C:\Users\Oguz\source\repos\YUVDecoder\YUVDecoder\bin\Debug\YUVDecoder.pdb
+C:\Users\Oguz\source\repos\YUVDecoder\YUVDecoder\obj\Debug\YUVDecoder.csprojAssemblyReference.cache
+C:\Users\Oguz\source\repos\YUVDecoder\YUVDecoder\obj\Debug\YUVDecoder.Main.resources
+C:\Users\Oguz\source\repos\YUVDecoder\YUVDecoder\obj\Debug\YUVDecoder.Properties.Resources.resources
+C:\Users\Oguz\source\repos\YUVDecoder\YUVDecoder\obj\Debug\YUVDecoder.Frames.resources
+C:\Users\Oguz\source\repos\YUVDecoder\YUVDecoder\obj\Debug\YUVDecoder.csproj.GenerateResource.cache
+C:\Users\Oguz\source\repos\YUVDecoder\YUVDecoder\obj\Debug\YUVDecoder.csproj.CoreCompileInputs.cache
+C:\Users\Oguz\source\repos\YUVDecoder\YUVDecoder\obj\Debug\YUVDecoder.exe
+C:\Users\Oguz\source\repos\YUVDecoder\YUVDecoder\obj\Debug\YUVDecoder.pdb
